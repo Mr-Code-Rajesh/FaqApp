@@ -43,6 +43,9 @@ export const Faq = () => {
           <FaqItem key={data.id} question={data.question} answer={data.answer} />
         ))}
       </div>
+      <div className='font-extrabold mt-6 text-center text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400'>
+        Developed By &copy; Saktrix {new Date().getFullYear()}
+      </div>
     </section>
   );
 };
