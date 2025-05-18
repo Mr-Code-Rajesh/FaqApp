@@ -1,0 +1,19 @@
+{
+  "name": "faqapp",
+  "version": "1.0.0",
+  "description": "\"Faq App\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Code-Rajesh/FaqApp.git"
+  },
+  "author": "Rajesh P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mr-Code-Rajesh/FaqApp/issues"
+  },
+  "homepage": "https://github.com/Mr-Code-Rajesh/FaqApp#readme"
+}
